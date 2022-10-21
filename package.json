@@ -1,0 +1,20 @@
+{
+	"name": "placeholder-images",
+	"version": "0.1.0",
+	"description": "Sample images to use in projects as placeholders.",
+	"keywords": ["placeholder", "image", "sample", "movahhedi", "shahab", "shmovahhedi"],
+	"author": {
+		"name": "Shahab Movahhedi",
+		"url": "https://shmovahhedi.com",
+		"email": "dev@shmovahhedi.com"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/movahhedi/placeholder-images.git"
+	},
+	"homepage": "https://github.com/movahhedi/placeholder-images#readme",
+	"bugs": {
+		"url": "https://github.com/movahhedi/placeholder-images/issues"
+	}
+}
